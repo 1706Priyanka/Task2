@@ -1,0 +1,212 @@
+body {
+  width: 70%;
+  margin-left: 15%;
+}
+
+.main1 {
+  background-color: rgb(255, 221, 0);
+  padding: 2%;
+  font-size: x-large;
+  font-family: sans-serif;
+}
+
+.main2 {
+  background-color: rgb(255, 221, 0);
+  padding: 2%;
+  font-size: x-large;
+  font-family: sans-serif;
+}
+
+.page2 {
+  height: 100%;
+  width: 100%;
+}
+
+.war {
+  height: 30%;
+  width: 30%;
+  float: left;
+  margin-right: 2%;
+}
+
+.content {
+  background-color: rgb(255, 221, 0);
+  padding: 5px;
+  display: flex;
+  width: 60%;
+  flex-direction: row;
+  text-align: justify;
+  font-size: larger;
+}
+
+.vyuha {
+  background-color: black;
+  color: white;
+  padding: 2%;
+  margin-top: 2%;
+}
+
+.images {
+  display: flex;
+  flex-direction: row;
+}
+
+.vyuhaImg {
+  padding: 3%;
+  height: 25%;
+  width: 25%;
+}
+
+.plane {
+  height: 60%;
+  width: 60%;
+}
+
+.plane-content {
+  background-color: rgb(255, 221, 0);
+  padding: 2%;
+}
+
+.start {
+  width: 100%;
+  height: 100%;
+}
+
+.drdo {
+  display: flex;
+  flex-direction: row;
+}
+
+.agni {
+  background-color: rgb(255, 221, 0);
+  padding: 5px;
+  font-size: xx-large;
+}
+
+.civil {
+  font-size: x-large;
+}
+
+.rocket {
+  height: 250%;
+  width: 25%;
+}
+
+.fort {
+  height: 50%;
+  width: 50%;
+}
+
+.bangalore {
+  font-size: xx-large;
+}
+
+.fort1 {
+  height: 25%;
+  width: 25%;
+}
+
+.circle {
+  float: left;
+  height: 40%;
+  width: 40%;
+}
+
+.circle2 {
+  background-color: rgb(255, 221, 0);
+  padding-bottom: 10%;
+  font-size: x-large;
+  word-spacing: 4px;
+  letter-spacing: 1px;
+}
+
+.circle3 {
+  background-color: rgb(255, 221, 0);
+  font-size: x-large;
+  word-spacing: 4px;
+  letter-spacing: 1px;
+}
+
+.war2 {
+  height: 60%;
+  width: 100%;
+}
+
+.formula {
+  float: left;
+  width: 40%;
+}
+
+.formula1 {
+  background-color: rgb(255, 221, 0);
+  font-size: x-large;
+  word-spacing: 4px;
+  letter-spacing: 1px;
+}
+
+.heading {
+  background-color: black;
+  color: white;
+  padding: 2%;
+}
+
+.main-image {
+  width: 100%;
+  position: relative;
+}
+
+.quote {
+  background-color: black;
+  color: white;
+  margin-top: -30px;
+  position: absolute;
+  padding: 1%;
+  font-size: x-large;
+  text-align: justify;
+}
+
+.apj {
+  float: right;
+  width: 45%;
+  height: 35%;
+  margin-top: 7%;
+}
+
+.dec {
+  margin-top: 3%;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 50%;
+}
+
+.pollution {
+  background-color: rgb(255, 221, 0);
+  padding: 4%;
+}
+
+.birthday {
+  background-color: black;
+  color: white;
+  padding: 4%;
+  text-align: justify;
+}
+
+.war-tool {
+  background-color: rgb(255, 221, 0);
+  padding: 2%;
+  font-size: 2rem;
+}
+
+.letter {
+  background-color: black;
+  color: white;
+  padding: 2%;
+  font-size: larger;
+  margin-bottom: 4%;
+}
+
+hr {
+  border: 2px solid gray;
+  margin: 4%;
+}
